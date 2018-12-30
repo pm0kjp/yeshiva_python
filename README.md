@@ -1,1 +1,1 @@
-# yeshiva_python
+# Assignments and Examples for Python Course
